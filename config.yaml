@@ -1,0 +1,8 @@
+http_server:
+    address: "localhost:8082"
+postgresql:
+    host: db
+    port: 5432
+    username: postgres
+    password: postgres
+    database: islamic_library
