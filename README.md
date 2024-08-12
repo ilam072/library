@@ -62,7 +62,7 @@
 500 InternalServerError
 ```
 
-### POST /api/user (Обновление информации о пользователе)
+### PUT /api/user (Обновление информации о пользователе)
 ```
 {
   "username":"john",
@@ -144,7 +144,7 @@
 400 BadRequest
 500 InternalServerError
 ```
-### POST /api/books/{bookId} (Обновление данных книги)
+### PUT /api/books/{bookId} (Обновление данных книги)
 Пример запроса:
 ```
 {
