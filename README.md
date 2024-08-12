@@ -90,16 +90,16 @@
 Пример ответа:
 ```
 [
-	{
-		"title":"book1",
+  {
+    "title":"book1",
     "author":"author1",
     "issue_year":2024
-	},
-	{
-		"title":"book2",
+  },
+  {
+    "title":"book2",
     "author":"author2",
     "issue_year":2024
-	},
+  },
 ]
 ```
 Коды ответа:
